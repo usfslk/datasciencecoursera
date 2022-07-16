@@ -1,7 +1,7 @@
 {
     "id": "DA7381CE",
-    "path": "~/Documents/DataScience/coursera-M1/HelloWorld.Rmd",
-    "project_path": "HelloWorld.Rmd",
+    "path": "~/Documents/DataScience/coursera-M1/HelloWorld.md",
+    "project_path": "HelloWorld.md",
     "type": "r_markdown",
     "hash": "3398810732",
     "contents": "",
@@ -21,7 +21,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1657936914405,
+    "last_content_update": 1657936914,
     "read_only": false,
     "read_only_alternatives": []
 }
